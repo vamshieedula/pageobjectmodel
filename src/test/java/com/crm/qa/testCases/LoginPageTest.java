@@ -27,6 +27,7 @@ public class LoginPageTest extends TestBase {
 		
 	}
 	
+	//added the changes
 	
 	@Test(priority = 1)
 	public void loginPageTitleTest() {
